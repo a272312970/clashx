@@ -1,0 +1,10 @@
+proxies:
+  ##-----------JP-----------##
+  - name: 🇯🇵 JPAWS
+    type: ss
+    server: xx.xx.xx.xx
+    port: xxxx
+    cipher: AEAD_AES_256_GCM
+    password: "xxxxxxxx"
+    udp: true
+
